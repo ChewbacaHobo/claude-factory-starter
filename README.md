@@ -1,5 +1,7 @@
 # claude-factory-starter
 
+[![CI](https://github.com/ChewbacaHobo/claude-factory-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/ChewbacaHobo/claude-factory-starter/actions/workflows/ci.yml)
+
 Modèle de projet pour travailler avec **Claude Code** comme une petite *software factory* :
 tu écris ce que tu veux, Claude code et teste, et **la CI juge** avant que quoi que ce soit n'arrive sur `main`.
 
